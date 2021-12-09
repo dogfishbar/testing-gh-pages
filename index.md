@@ -2,36 +2,14 @@
 
 You can use the [editor on GitHub](https://github.com/dogfishbar/testing-gh-pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm an Associate Professor of Computer Science at Boston College. If you would like to discuss something related to my teaching or research, please contact me. My research is related to the reliabilty and performance of computer software. I worked on high-performance certifying compilers for higher-order typed programming languages such as Standard ML. I spent several years working as a founding member of the Church Project. Together with Robert Harper, I was a co-founder of the Types in Compilation (TIC) series of workshops. The TIC workshop series subsequently evolved into its current form: Types in Language Design and Implementation (TLDI).
 
-### Markdown
+Most of my earlier papers can be found here.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I teach a variety of courses in the computer science curriculum. My schedule for the spring semester of the 2021-2022 academic year has me teaching one section of: CSCI 1101 Computer Science 1.
 
-```markdown
-Syntax highlighted code block
+My office hours are Tuesdays 10AM - noon and Wednesdays 10AM - noon.
 
-# Header 1
-## Header 2
-### Header 3
+If you are one of my CS Major Academic Advisees and you need to make an appointment to discuss course planning for the upcoming semester, you'll find an active make-an-appointment link here. If you are one of my CS Major Academic Advisees and you'd like to see me at some time other than the Academic Advising period, you can email me to make an appointment or you can see me during my class office hours, but students enrolled in current classes have priority.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dogfishbar/testing-gh-pages/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thinking of asking me for a letter of recommendation? I may be able to help, but please read this first.
