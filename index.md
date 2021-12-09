@@ -1,3 +1,5 @@
+## This is a funny title
+
 I'm an Associate Professor of Computer Science at Boston College. If you would like to discuss something related to my teaching or research, please contact me. My research is related to the reliabilty and performance of computer software. I worked on high-performance certifying compilers for higher-order typed programming languages such as Standard ML. I spent several years working as a founding member of the Church Project. Together with Robert Harper, I was a co-founder of the Types in Compilation (TIC) series of workshops. The TIC workshop series subsequently evolved into its current form: Types in Language Design and Implementation (TLDI).
 
 Most of my earlier papers can be found here.
